@@ -1,4 +1,4 @@
-package com.myname.mymodid;
+package com.SoundBoardy.soundboardy;
 
 import java.io.File;
 
