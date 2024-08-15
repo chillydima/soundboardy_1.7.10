@@ -12,3 +12,5 @@ A 1.7.10 mod that players can use to play their custom sounds on the server.
 ### Features
 - You can play your sounds on the server with this mod by typing keywords in chat!
 - Adding sounds automated with exe file provided in the resourcepack!
+
+![Obsidian_8dh2tkdULX](https://github.com/user-attachments/assets/f388863c-fd00-4291-8a79-301516b2b047)
