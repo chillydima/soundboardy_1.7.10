@@ -14,4 +14,3 @@ for i, hto, files in hto:
 
 pyperclip.copy(soundlist + "\n" + locale)
 sleep(2)
-

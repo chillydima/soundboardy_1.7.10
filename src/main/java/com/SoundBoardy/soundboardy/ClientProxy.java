@@ -12,6 +12,7 @@ public class ClientProxy extends CommonProxy {
     public void postInit(FMLPostInitializationEvent event) {
 
         MinecraftForge.EVENT_BUS.register(new ChatEventHandler());
+
     }
 
 }

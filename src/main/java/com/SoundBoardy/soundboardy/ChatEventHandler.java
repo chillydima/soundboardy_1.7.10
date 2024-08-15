@@ -23,7 +23,7 @@ public class ChatEventHandler {
                 if (msg.split(" ").length > 1) {
                     return;
                 }
-                Main.LOG.info("попытка запустить звук:" + "soundboardy:" + msg);
+                Main.LOG.info("попытка запустить звук: " + "soundboardy:" + msg);
                 FMLClientHandler.instance()
                     .getWorldClient()
                     .playSound(hto.posX, hto.posY, hto.posZ, "soundboardy:" + msg, 1, 1, false);
