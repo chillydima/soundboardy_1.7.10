@@ -10,9 +10,7 @@ public class ClientProxy extends CommonProxy {
     // Don't forget to call the super methods as well.
     @Override
     public void postInit(FMLPostInitializationEvent event) {
-
         MinecraftForge.EVENT_BUS.register(new ChatEventHandler());
-
     }
 
 }
