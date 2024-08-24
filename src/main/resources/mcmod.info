@@ -4,7 +4,7 @@
 		"modid": "${modId}",
 		"name": "${modName}",
 		"description": "A 1.7.10 mod that players can use to play their custom sounds on the server.",
-		"version": "0.1",
+		"version": "0.1.1hotfix",
 		"mcversion": "${minecraftVersion}",
 		"url": "https://github.com/chillydima",
 		"updateUrl": "",
