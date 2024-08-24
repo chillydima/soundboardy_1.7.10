@@ -28,7 +28,7 @@ public class MovingSoundPlayer extends MovingSound
         else
         {
             this.xPosF = (float)this.player.posX;
-            this.yPosF = (float)this.player.posY;
+            this.yPosF = (float)this.player.posY+2.2F;
             this.zPosF = (float)this.player.posZ;
 
         }
